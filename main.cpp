@@ -7,3 +7,9 @@ void main(void {
 void something_added(void) {
     printf("add something\n");
 }
+
+void add_in_dev_branch(void) {
+    std::cout<<"this is added in develop branch\n";
+}
+    
+    
